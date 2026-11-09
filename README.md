@@ -4,6 +4,13 @@ Homeland é uma página sobre a galeria de arte da TripleTen, que reúne histór
 
 O projeto foi feito com HTML semântico, para organizar melhor o conteúdo da página, e CSS com media queries, para adaptar o layout a diferentes tamanhos de tela.
 
-## Acesse o projeto 
+<<<<<<< HEAD
+
+## Acesse o projeto
+
+=======
+Acesse o projeto
+
+> > > > > > > a29e648 ( segundo commit projeto 5)
 
 https://fernando-cobo.github.io/web_project_homeland/
