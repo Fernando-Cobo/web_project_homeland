@@ -47,28 +47,35 @@
 @media screen and (max-width: 1024px) {
   .intro__subtitle {
     margin: 50px 0 0 0;
+    padding: 0 24px;
   }
   .intro__author {
     margin: 0 0 32px 0;
+    padding: 0 24px;
   }
   .intro__text {
     margin: 0 0 88px 0;
+    padding: 0 24px;
   }
 }
 
 @media screen and (max-width: 544px) {
   .intro__title {
     font-size: 32px;
+    padding: 0 16px;
   }
 
   .intro__subtitle {
     font-size: 24px;
     margin: 40px 0 0 0;
+    padding: 0 16px;
   }
   .intro__author {
     margin: 10px 0 32px 0;
+    padding: 0 16px;
   }
   .intro__text {
     margin: 0 0 64px 0;
+    padding: 0 16px;
   }
 }

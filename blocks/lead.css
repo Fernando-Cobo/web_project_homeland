@@ -37,14 +37,17 @@
     font-weight: 900;
     font-size: 75px;
     line-height: 79px;
+    padding: 0 24px;
   }
   .lead__subtitle {
     margin-bottom: 30px;
+    padding: 0 24px;
   }
   .lead__image {
     max-width: none;
     width: 100%;
     margin-bottom: 90px;
+    padding: 0 24px;
   }
 }
 
@@ -55,12 +58,15 @@
     font-weight: 900;
     font-size: 40px;
     line-height: 44px;
+    padding: 0 16px;
   }
   .lead__subtitle {
     margin-bottom: 40px;
+    padding: 0 16px;
   }
   .lead__image {
     max-width: 544px;
     margin-bottom: 64px;
+    padding: 0 16px;
   }
 }
